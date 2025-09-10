@@ -1,0 +1,19 @@
+{
+    "name": "lxl92118/test_package",
+    "description": "第一個test_package",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lxl92118\\TestPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lxl"
+        }
+    ]
+}
