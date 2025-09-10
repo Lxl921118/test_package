@@ -1,5 +1,5 @@
 <?php
-namespace Lxl92118\TestPackage\Test;
+namespace Test\HelloWorld;
 
 class HelloWorld
 {
