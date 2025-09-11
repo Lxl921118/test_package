@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Lxl92118\\TestPackage\\": "src/"
+            "Lxl921118\\TestPackage\\": "src/"
         }
     },
     "authors": [
